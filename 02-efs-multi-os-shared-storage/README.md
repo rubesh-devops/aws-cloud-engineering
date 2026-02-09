@@ -140,12 +140,16 @@ Validated real-time file synchronization across all nodes.
 
 ## 📸 Proof of Implementation
 
-Screenshots included in `/screenshots` folder:
+Detailed execution screenshots, validation outputs, and configuration steps:
 - EFS creation
 - Mount target configuration
 - EC2 instances dashboard
 - Terminal mounting commands
 - Cross-instance file validation
+
+
+👉 [Download Implementation PDF](02-efs-multi-os-shared-storage-proof.pdf)
+
 
 ---
 
