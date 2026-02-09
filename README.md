@@ -1,56 +1,77 @@
 # ☁️ AWS Cloud Engineering Portfolio
 
-This repository contains hands-on AWS implementations completed as part of the DevOps Architect Master's Program (Intellipaat), including assignments and real-world projects.
+This repository showcases 20 hands-on AWS infrastructure implementations and 2 end-to-end cloud projects completed as part of the DevOps Architect Master's Program.
 
-All implementations were executed in live AWS environments and documented with architecture diagrams and screenshots.
+All deployments were executed in live AWS environments with secure architecture design and best practices.
 
 ---
 
-## 📂 Assignments
+## 📂 Assignments (20 Implementations)
 
-Hands-on infrastructure implementations:
+Infrastructure & Cloud Services:
 
-- EC2, EBS & EFS Storage Architecture
-- VPC Network Design & Subnet Configuration
-- Auto Scaling & Load Balancer Setup
-- IAM Roles & Access Control
-- RDS & Database Deployment
-- Serverless Architecture using Lambda
+- EC2 Administration & Linux Setup
+- EBS & Snapshot Lifecycle Management
+- EFS Shared File Systems
+- VPC & Secure Network Architecture
+- Subnets, NAT Gateway & Internet Gateway
+- Security Groups & NACL Configuration
+- IAM Roles & Policy Management
+- S3 Storage & Static Hosting
+- CloudFront CDN
+- RDS Deployment & Backup
+- Auto Scaling & High Availability
+- Application Load Balancer
+- Route 53 DNS Configuration
+- AWS Lambda Serverless Deployment
+- API Gateway Integration
+- SNS & SQS Messaging Architecture
+- CloudWatch Monitoring & Alarms
 - CloudFormation Infrastructure as Code
-
-👉 See `/assignments` folder for detailed documentation.
+- Elastic Beanstalk Deployment
+- Bastion Host Secure Access Design
 
 ---
 
-## 🚀 Real-World Projects
+## 🚀 End-to-End Projects
 
-- Multi-Tier Web Application Deployment
-- Private SNS Messaging using VPC Endpoints
-- Website Orchestration with Managed AWS Services
+### 1️⃣ Multi-Tier Web Application Architecture
+- VPC with public & private subnets
+- EC2 instances behind Load Balancer
+- RDS in private subnet
+- Auto Scaling for high availability
+- Secure IAM role design
 
-👉 See `/projects` folder for architecture and implementation details.
+### 2️⃣ Serverless Application Deployment
+- Lambda functions
+- API Gateway
+- S3 storage
+- IAM-based secure execution
+- CloudWatch logging & monitoring
 
 ---
 
 ## 📜 Certification
 
-Completed AWS Solution Architect training under DevOps Architect Master’s Program (Intellipaat).
+AWS Cloud training completed under DevOps Architect Master's Program (Intellipaat).  
+Certification proof available in `/certificates` folder.
 
-Certificate available in `/certificates` folder.
+---
+
+## 🧠 Core AWS Skills Demonstrated
+
+- Infrastructure provisioning
+- Secure VPC design
+- High availability architecture
+- IAM access control implementation
+- Storage management (EBS, EFS, S3)
+- Monitoring & logging
+- Serverless architecture
+- Infrastructure as Code (CloudFormation)
 
 ---
 
-## 🧠 Skills Demonstrated
+## 🔗 Connect With Me
 
-- EC2 provisioning & AMI management
-- EBS volume lifecycle & snapshot backup
-- EFS shared file systems
-- VPC architecture & secure networking
-- Auto Scaling & Load Balancer configuration
-- IAM policy & role-based access control
-- RDS deployment & backup strategy
-- Serverless deployment (Lambda, API Gateway)
-- Infrastructure automation using CloudFormation
-- High availability & disaster recovery design
-
----
+- LinkedIn: [Your LinkedIn Link]
+- GitHub: [Your GitHub Profile Link]
