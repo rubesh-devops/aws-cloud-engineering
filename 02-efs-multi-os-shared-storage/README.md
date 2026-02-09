@@ -144,7 +144,7 @@ Validated real-time file synchronization across all nodes.
 
 Detailed execution screenshots and validation outputs:
 
-👉 [Download Implementation PDF](02-efs-multi-os-shared-storage-proof.pdf)
+👉 [Download Implementation PDF](https://drive.google.com/file/d/1jij5ZKjoEDxHVUSRApHMqPMVV3Jhb4sp/view?usp=drive_link)
 
 ---
 
